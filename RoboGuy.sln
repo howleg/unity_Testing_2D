@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{31C015B6-387A-9175-6030-6E510DE0AE13}") = "RoboGuy", "Assembly-CSharp.csproj", "{37CF7AC7-271C-8276-687F-29DA21A38B99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37CF7AC7-271C-8276-687F-29DA21A38B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CF7AC7-271C-8276-687F-29DA21A38B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CF7AC7-271C-8276-687F-29DA21A38B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CF7AC7-271C-8276-687F-29DA21A38B99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
